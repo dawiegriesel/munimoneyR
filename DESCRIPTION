@@ -10,3 +10,5 @@ Description: Extract Financial Information from the Municipal Money API
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/dmg73/munimoneyR
+BugReports: https://github.com/dmg73/munimoneyR/issues
